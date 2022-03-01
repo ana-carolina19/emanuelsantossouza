@@ -3,9 +3,9 @@
 - 🌱 Atualmente estou apenas estudando,Desenvolvimento de Sistemas e linguaguens da Programção.
 - 👯 Procuro colabora com empresas que estaja a procura de estagiarios na arae da programção.
 - 💬 Pergute me algo?
-- 😄 Pronomes: Ele,Dele
+- 😄 Pronomes: Ele,Dele.
 - 🤓 hobbies: estudar, programar, ler, desenhar e estudar linguas🇪🇸🇺🇸.
-
+- 📱 contato: +55 11 99961-3355.
 
 <div align="center">
   <a href="https://github.com/emanuelsantossouza">
