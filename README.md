@@ -1,7 +1,7 @@
 ### olá!! eu sou emanuel 😃 
 
 - 🌱 Atualmente estou apenas estudo:Desenvolvimento de Sistemas e linguaguens da Programção.
-- 👯 Procuro colaborar com empresas que estaja a procura de estagiarios na arae da programação.
+- 👯 Procuro colaborar com empresas que estaja a procura de estagiarios na area da programação.
 - 💬 Pergute me algo?
 - 😄 Pronomes: Ele,Dele.
 - 🤓 hobbies: estudar, programar, ler, desenhar e aprender linguas🇪🇸🇺🇸.
