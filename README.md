@@ -1,10 +1,10 @@
 ### olá!! eu sou emanuel 😃 
 
-- 🌱 Atualmente estou apenas estudando,Desenvolvimento de Sistemas e linguaguens da Programção.
-- 👯 Procuro colabora com empresas que estaja a procura de estagiarios na arae da programção.
+- 🌱 Atualmente estou apenas estudo:Desenvolvimento de Sistemas e linguaguens da Programção.
+- 👯 Procuro colaborar com empresas que estaja a procura de estagiarios na arae da programação.
 - 💬 Pergute me algo?
 - 😄 Pronomes: Ele,Dele.
-- 🤓 hobbies: estudar, programar, ler, desenhar e estudar linguas🇪🇸🇺🇸.
+- 🤓 hobbies: estudar, programar, ler, desenhar e aprender linguas🇪🇸🇺🇸.
 - 📱 contato: +55 11 99961-3355.
 
 <div align="center">
