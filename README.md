@@ -1,4 +1,4 @@
-### olá!! eu sou emanuel 😃 
+### Olá!! eu sou emanuel 😃 
 
 - 🌱 Atualmente estou apenas estudo:Desenvolvimento de Sistemas e linguaguens da Programção.
 - 👯 Procuro colaborar com empresas que estaja a procura de estagiarios na area da programação.
