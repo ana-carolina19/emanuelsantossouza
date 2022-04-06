@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estou apenas estudo:Desenvolvimento de Sistemas e linguaguens da Programção.
 - 👯 Procuro colaborar com empresas que estaja a procura de estagiarios na area da programação.
-- 😄 Pronomes: Ele,Dele.
 - 🤓 hobbies: estudar, programar, ler, desenhar e aprender linguas🇪🇸🇺🇸.
 - 📱 contato: +55 11 99961-3355.
 
